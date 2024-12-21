@@ -1,0 +1,51 @@
+{
+  "metaData": {
+    "title": "Front-End web Developer",
+    "description": "I am Front-End web Developer that builds personalizied websites. based in cairo, Egypt",
+    "keywords": ["Front-End", "javascript", "devops", "web dev"]
+  },
+  "fullName": "Abdallah Aboelsaoud",
+  "rotatingWords": [ "Web Development", "web design", "UI/UX design"],
+  "aboutMe": [
+    "Hi, I'm Abdallah! I'm a passionate and driven individual on a journey of personal and professional growth. As a front-end developer, I’m currently honing my skills in HTML, CSS, and JavaScript to create interactive, user-friendly websites. With a background in banking and a desire to transition into tech, I’ve always been fascinated by problem-solving and building solutions that impact people's lives.",
+    "I’m also an entrepreneur at heart, with a strong interest in personal development, business, and health. Over the years, I’ve worked on improving my mindset and approach to challenges, always striving to become the best version of myself, both personally and professionally. Whether it’s learning new coding techniques, pushing myself to maintain a healthy lifestyle, or focusing on building a successful career, I’m committed to growth and learning.",
+    " Feel free to browse through my work, and don’t hesitate to reach out if you'd like to connect!"
+  ],
+  "skills": [
+    "javascript",
+    "Html",
+    "React",
+    "Css",
+    "python"
+  ],
+  "projects": [
+    {
+      "imageSrc": "memory-card-game",
+      "title": "Memory card game",
+      "codeSrc": "https://github.com/Saoud2021/Memory-card-Game",
+      "liveDemoURL": "https://memorycarddgame.netlify.app"
+    },
+    {
+      "imageSrc": "expense-tracker-app",
+      "title": "Expenses tracker app",
+      "codeSrc": "https://github.com/Saoud2021/Expenses-Tracker",
+      "liveDemoURL": "https://expenseztracker.netlify.app"
+    },
+    {
+      "imageSrc": "guessing-game",
+      "title": "Guessing game",
+      "codeSrc": "https://github.com/Saoud2021/chatGpt-challenge-js",
+      "liveDemoURL": "https://guessingggame.netlify.app"
+    }
+    
+  ],
+  "contact": {
+    "email": "abdallah.aboelsaoud@gmail.com",
+    "location": "cairo,egypt",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/abdallahsaoud/",
+      "github": "https://github.com/Saoud2021"
+  
+    }
+  }
+}

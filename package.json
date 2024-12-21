@@ -1,0 +1,29 @@
+{
+  "name": "portfolio-template",
+  "description": "Deploy your portfolio in 5 minutes ⚡ Built with Astro 🚀 and TailwindCSS ✨ Achieve a perfect Lighthouse score 💯 ",
+  "author": "Ahmed Zougari <contact@ahmedz.dev> (http://ahmedz.dev)",
+  "type": "module",
+  "version": "3.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.7.0",
+    "@astrojs/tailwind": "^5.1.0",
+    "astro": "^4.11.1",
+    "valibot": "^0.35.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.2",
+    "prettier-plugin-astro": "^0.14.0",
+    "prettier-plugin-tailwindcss": "^0.6.5",
+    "sharp": "^0.33.4",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5.5.2"
+  },
+  "packageManager": "pnpm@8.11.0"
+}
