@@ -26,7 +26,7 @@ import { Image } from 'astro:assets'
             <div title={skill} class='flex justify-center'>
               <Image
                 class='block w-16'
-                src={`https://go-skill-icons.vercel.app/api/icons?i=${skill}&titles=true`}
+                src={`https://go-skill-icons.vercel.app/api/icons?i=${skill.toLowerCase()}&titles=true`}
                 loading='lazy'
                 width={50}
                 height={50}
