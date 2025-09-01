@@ -25,6 +25,12 @@
       "codeSrc": "https://github.com/Saoud2021/todo-app-main?tab=readme-ov-file#overview",
       "liveDemoURL": "https://todooappweb.netlify.app/"
     },
+      {
+      "imageSrc": "landing-page",
+      "title": "Simple Landing Page",
+      "codeSrc": "https://github.com/Saoud2021/simple-homepage-master?tab=readme-ov-file#overview",
+      "liveDemoURL": "https://whompage.netlify.app/"
+    },
     {
       "imageSrc": "memory-card-game",
       "title": "Memory card game",
