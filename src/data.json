@@ -20,6 +20,12 @@
   ],
   "projects": [
     {
+      "imageSrc": "todo-app",
+      "title": "Todo app",
+      "codeSrc": "https://github.com/Saoud2021/todo-app-main?tab=readme-ov-file#overview",
+      "liveDemoURL": "https://todooappweb.netlify.app/"
+    },
+    {
       "imageSrc": "memory-card-game",
       "title": "Memory card game",
       "codeSrc": "https://github.com/Saoud2021/Memory-card-Game",
